@@ -1,0 +1,86 @@
+#file types
+*.json
+*.tbi
+*.pdf
+*.txt
+.ipynb_checkpoints/
+
+#specific scratch notebooks
+20191119_pou1f1_CS.ipynb
+2020-02-12 cathy plot debugging.ipynb
+align*
+all_sample*
+alt_donors_acceptors.ipynb
+barcodes.ipynb
+BC-Clustering.ipynb
+check_validation_variants.ipynb
+compare*
+CompareReps.ipynb
+edit*
+ExploreUnmappedReads.ipynb
+frameshifts*
+GMM_for_Isaac.ipynb
+gnomAD.ipynb
+HAL_2020-0929.ipynb
+hal_scores/
+isoform_collection-2020-0817.ipynb
+isoform_collection-2020-0821.ipynb
+isoform_collection-2020-0824.ipynb
+isoform_collection_gmapWT-2021-0326.ipynb
+isoform_collection_hisatWT-2021-0326.ipynb
+isoform_collection.ipynb
+isoform_collection_valvars-2020-1216.ipynb
+isoform_collection_valvars-2020-1222.ipynb
+isoform_collection_valvars-2021-0108.ipynb
+isoform_collection_valvars-2021-0111.ipynb
+isoform_collection-2020-0826.ipynb
+java
+gmap_align-valvars.2020-1222.ipynb
+gmap_align-valvars.2021-0108.ipynb
+gmap_align_WT.2021-0326.ipynb
+ke_motifs*
+Junction-Centric Splicing.ipynb
+MaxEntScan_2020-1102.ipynb
+Merge Barcodes.ipynb
+MMSplice_2020-1206.ipynb
+msh2*
+naturecomm_figs.ipynb
+naturecomm-submitted.ipynb
+needleman-wunsch.2021-0106.ipynb
+phylop.ipynb
+Pipeline Plots.ipynb
+plot_boston.ipynb
+plzsave
+PosterPlots.ipynb
+pou1f1_byiso-20200611.ipynb
+pou1f1_byiso-20200818.ipynb
+pou1f1_byiso-20200821.ipynb
+pou1f1_byiso-20200824.ipynb
+pou1f1_byiso-20200826.ipynb
+pou1f1_byiso.ipynb
+pou1f1_byiso_SP6_DT-20200611.ipynb
+pou1f1_intron_null*
+pou1f1_newdata_HB-20200410.ipynb
+pou1f1_newdata_HB-20200611.ipynb
+pou1f1_newdata_HB-20200818.ipynb
+pou1f1_newdata_HB-20200821.ipynb
+pou1f1_newdata_HB-20200824.ipynb
+pou1f1_newdata_HB-20200826.ipynb
+pou1f1_newdata_HB_SP6_DT-20200611.ipynb
+pou1f1_newdata_HEK*
+pou1f1_primer_design.ipynb
+pou1f1_wt_byiso*
+primary_v_secondary_align-20200825.ipynb
+__pycache__/
+RBP_*
+RNACenterPoster.ipynb
+Score Motifs.ipynb
+simulate*
+smith*
+SPANR_2020-0929.ipynb
+sparse_dataframes.ipynb
+splfxseq/
+spliceAI.ipynb
+spliceai_module_testing.ipynb
+TN5-rnaseq.ipynb
+WTOutliers.ipynb
