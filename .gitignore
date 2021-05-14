@@ -79,8 +79,14 @@ simulate*
 smith*
 SPANR_2020-0929.ipynb
 sparse_dataframes.ipynb
-splfxseq/
 spliceAI.ipynb
 spliceai_module_testing.ipynb
 TN5-rnaseq.ipynb
 WTOutliers.ipynb
+check_memory.py
+custom_splai_scores.py
+gnomad.py
+junction_net.py
+spliceai.py
+inspect_variants.py
+phylop.py
